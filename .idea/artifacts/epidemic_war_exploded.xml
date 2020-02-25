@@ -7,6 +7,11 @@
         <element id="directory" name="classes">
           <element id="module-output" name="epidemic" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="SpringMvc" />
+          <element id="library" level="project" name="log4j" />
+          <element id="library" level="project" name="mybatis-mysql-dbcp" />
+        </element>
       </element>
     </root>
   </artifact>

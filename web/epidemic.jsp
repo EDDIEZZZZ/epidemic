@@ -9,7 +9,15 @@
 <head>
     <title>疫情分析</title>
 </head>
+<style>
+    #container {
+        height: 500px;
+    }
+</style>
 <body>
-
+<div id="container">
+    疫情统计信息 增加了一下内容
+</div>
+<a href="login.jsp">登录</a>
 </body>
 </html>

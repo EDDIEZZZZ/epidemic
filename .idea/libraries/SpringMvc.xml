@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="SpringMvc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/aspectjweaver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/cglib-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/spring-aop-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/spring-aspects-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/spring-beans-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/spring-context-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/spring-context-support-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/spring-core-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/spring-expression-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/spring-jdbc-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/spring-tx-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/spring-web-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/spring-webmvc-4.3.3.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
